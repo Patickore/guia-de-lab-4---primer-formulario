@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.32630.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "guia de lab 4 - primer formulario", "guia de lab 4 - primer formulario\guia de lab 4 - primer formulario.csproj", "{DE7BFEFB-4929-4517-B4F0-0DF2B82DE3F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form2", "Form2\Form2.csproj", "{1B6D1B2F-FA87-42AC-B0A7-2C908F6765F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DE7BFEFB-4929-4517-B4F0-0DF2B82DE3F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE7BFEFB-4929-4517-B4F0-0DF2B82DE3F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE7BFEFB-4929-4517-B4F0-0DF2B82DE3F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B6D1B2F-FA87-42AC-B0A7-2C908F6765F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B6D1B2F-FA87-42AC-B0A7-2C908F6765F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B6D1B2F-FA87-42AC-B0A7-2C908F6765F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B6D1B2F-FA87-42AC-B0A7-2C908F6765F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
